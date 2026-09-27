@@ -27,15 +27,6 @@ const TRACKS = [
     "url": "https://www.youtube.com/watch?v=FP6AIAGk_yY"
   },
   {
-    "id": "_GjtANasi0o",
-    "video": "_GjtANasi0o",
-    "title": "जोड़े जोड़े फलवा",
-    "artist": "पवन सिंह",
-    "original": "Jode Jode Falwa",
-    "searchArtist": "Pawan Singh",
-    "url": "https://www.youtube.com/watch?v=_GjtANasi0o"
-  },
-  {
     "id": "-mpGoG0nWPo",
     "video": "-mpGoG0nWPo",
     "title": "केलवा के पात पर",
@@ -108,15 +99,6 @@ const TRACKS = [
     "url": "https://www.youtube.com/watch?v=3-HHwciJpEw"
   },
   {
-    "id": "dpemNF0OCE8",
-    "video": "dpemNF0OCE8",
-    "title": "कहेली अनीता देई हम छठ करब",
-    "artist": "पवन सिंह और अनामिका सिंह",
-    "original": "Kaheli Anita Dei Hum Chhath Karab",
-    "searchArtist": "Pawan Singh & Anamika Singh",
-    "url": "https://www.youtube.com/watch?v=dpemNF0OCE8"
-  },
-  {
     "id": "c3QlEIUc3Ok",
     "video": "c3QlEIUc3Ok",
     "title": "काँच ही बाँस के बहँगिया",
@@ -126,22 +108,31 @@ const TRACKS = [
     "url": "https://www.youtube.com/watch?v=c3QlEIUc3Ok"
   },
   {
-    "id": "zh8fGqI0bdA",
-    "video": "zh8fGqI0bdA",
-    "title": "नेवता बिलाई मौसी आ गइली बाटे",
-    "artist": "पवन सिंह",
-    "original": "Nevta Bilaai Mousi Aa Gailee Baate",
-    "searchArtist": "Pawan Singh",
-    "url": "https://www.youtube.com/watch?v=zh8fGqI0bdA"
+    "id": "W69dCiDXAsY",
+    "video": "W69dCiDXAsY",
+    "title": "जय छठी मैया",
+    "artist": "पूनम मिश्रा",
+    "original": "Jai Chhathi Maiya · Traditional Chhath Geet",
+    "searchArtist": "Poonam Mishra",
+    "url": "https://www.youtube.com/watch?v=W69dCiDXAsY"
   },
   {
-    "id": "MmNb-qXt1S4",
-    "video": "MmNb-qXt1S4",
-    "title": "हम तोहसे पूछीं भउजी",
-    "artist": "पवन सिंह",
-    "original": "Hum Tohse Puchhi Bhauji",
-    "searchArtist": "Pawan Singh",
-    "url": "https://www.youtube.com/watch?v=MmNb-qXt1S4"
+    "id": "pQWgjOgi2Jk",
+    "video": "pQWgjOgi2Jk",
+    "title": "खरना के पाँच गीत",
+    "artist": "पूनम मिश्रा",
+    "original": "Top 5 Kharna Geet",
+    "searchArtist": "Poonam Mishra",
+    "url": "https://www.youtube.com/watch?v=pQWgjOgi2Jk"
+  },
+  {
+    "id": "kwNRsZN2RHA",
+    "video": "kwNRsZN2RHA",
+    "title": "छठ पूजा के पाँच गीत",
+    "artist": "पूनम मिश्रा",
+    "original": "Top 5 Chhath Puja Geet",
+    "searchArtist": "Poonam Mishra",
+    "url": "https://www.youtube.com/watch?v=kwNRsZN2RHA"
   },
   {
     "id": "8MzoVsjL4QU",
@@ -225,24 +216,6 @@ const TRACKS = [
     "url": "https://www.youtube.com/watch?v=m76W1RcKPzo"
   },
   {
-    "id": "yt_8_NaCWGk",
-    "video": "yt_8_NaCWGk",
-    "title": "रउवा से इहे हाथजोड़िया",
-    "artist": "पवन सिंह",
-    "original": "Rauwa Se Ehe Hathjoriya",
-    "searchArtist": "Pawan Singh",
-    "url": "https://www.youtube.com/watch?v=yt_8_NaCWGk"
-  },
-  {
-    "id": "_16_cy74D-c",
-    "video": "_16_cy74D-c",
-    "title": "बदरी चीर के आईं उगीं हे सुरुजदेव",
-    "artist": "पवन सिंह",
-    "original": "Badari Cheer Ke Aai Ugi He Surujdev",
-    "searchArtist": "Pawan Singh",
-    "url": "https://www.youtube.com/watch?v=_16_cy74D-c"
-  },
-  {
     "id": "VJq6aMPw9W4",
     "video": "VJq6aMPw9W4",
     "title": "चला पटना के घाट",
@@ -279,15 +252,6 @@ const TRACKS = [
     "url": "https://www.youtube.com/watch?v=Ok7GkhZOydw"
   },
   {
-    "id": "8LzKbuxADCw",
-    "video": "8LzKbuxADCw",
-    "title": "लचकेला बहँगी झूमेला बिहरिया",
-    "artist": "पवन सिंह",
-    "original": "Lachkela Bahangi Jhumela Bihariya",
-    "searchArtist": "Pawan Singh",
-    "url": "https://www.youtube.com/watch?v=8LzKbuxADCw"
-  },
-  {
     "id": "vRgalGrZUxg",
     "video": "vRgalGrZUxg",
     "title": "पटना के हाट पर नरियर",
@@ -313,15 +277,6 @@ const TRACKS = [
     "original": "Jode Jode Supwa Tora Chadaibo",
     "searchArtist": "Kalpana Patowary",
     "url": "https://www.youtube.com/watch?v=G3PMFpftpbg"
-  },
-  {
-    "id": "u5gSGPKcEBA",
-    "video": "u5gSGPKcEBA",
-    "title": "छठी माई के करब हम पुजनिया",
-    "artist": "पवन सिंह",
-    "original": "Chhathi Mai Ke Karab Hum Pujaniya",
-    "searchArtist": "Pawan Singh",
-    "url": "https://www.youtube.com/watch?v=u5gSGPKcEBA"
   },
   {
     "id": "2fFXDHk2TLs",
@@ -396,15 +351,6 @@ const TRACKS = [
     "url": "https://www.youtube.com/watch?v=BktbNj2TzPs"
   },
   {
-    "id": "6diXoexNQ58",
-    "video": "6diXoexNQ58",
-    "title": "छठी माई के घटवा पे आजन बाजन",
-    "artist": "पवन सिंह",
-    "original": "Chhathi Mai Ke Ghatwa Pe Aajan Baajan",
-    "searchArtist": "Pawan Singh",
-    "url": "https://www.youtube.com/watch?v=6diXoexNQ58"
-  },
-  {
     "id": "ZC4mPzCtL5c",
     "video": "ZC4mPzCtL5c",
     "title": "छठ करब हम जरूर",
@@ -421,24 +367,6 @@ const TRACKS = [
     "original": "Ganga Ji Ke Nirmal Paniya",
     "searchArtist": "Arvind Akela Kallu & Chetna",
     "url": "https://www.youtube.com/watch?v=-KPQqGVdx3Q"
-  },
-  {
-    "id": "Z1JJdVBSwRE",
-    "video": "Z1JJdVBSwRE",
-    "title": "कोसी कइली घर उजाड़",
-    "artist": "पवन सिंह",
-    "original": "Kosi Kaili Ghar Ujad",
-    "searchArtist": "Pawan Singh",
-    "url": "https://www.youtube.com/watch?v=Z1JJdVBSwRE"
-  },
-  {
-    "id": "GljkiVCbmbg",
-    "video": "GljkiVCbmbg",
-    "title": "घटिये स्वर्ग लागेला",
-    "artist": "पवन सिंह",
-    "original": "Ghatiye Swarg Lagela",
-    "searchArtist": "Pawan Singh",
-    "url": "https://www.youtube.com/watch?v=GljkiVCbmbg"
   },
   {
     "id": "Eb1W8pX0to0",
@@ -468,15 +396,6 @@ const TRACKS = [
     "url": "https://www.youtube.com/watch?v=BP_Gg0B77Ls"
   },
   {
-    "id": "JK46aop5YCE",
-    "video": "JK46aop5YCE",
-    "title": "रहिया निहारे बँझिनिया",
-    "artist": "पवन सिंह",
-    "original": "Rahiya Nihare Bajhiniya",
-    "searchArtist": "Pawan Singh",
-    "url": "https://www.youtube.com/watch?v=JK46aop5YCE"
-  },
-  {
     "id": "LAyzT5S3PkU",
     "video": "LAyzT5S3PkU",
     "title": "नदिया के तीरे तीरे",
@@ -484,15 +403,6 @@ const TRACKS = [
     "original": "Nadiya Ke Teere Teere",
     "searchArtist": "Sharda Sinha",
     "url": "https://www.youtube.com/watch?v=LAyzT5S3PkU"
-  },
-  {
-    "id": "OIWmozBpJVQ",
-    "video": "OIWmozBpJVQ",
-    "title": "पेन्हले महादेव पियरिया",
-    "artist": "पवन सिंह",
-    "original": "Penhele Maha Dev Piyriya",
-    "searchArtist": "Pawan Singh",
-    "url": "https://www.youtube.com/watch?v=OIWmozBpJVQ"
   },
   {
     "id": "bRBxsGyZbE4",
@@ -529,15 +439,6 @@ const TRACKS = [
     "original": "Kartik Maas Ijoriya",
     "searchArtist": "Sharda Sinha",
     "url": "https://www.youtube.com/watch?v=JcCjw_P_gaM"
-  },
-  {
-    "id": "7vj91XP2j78",
-    "video": "7vj91XP2j78",
-    "title": "ओरिये ओरिये मधु चुए",
-    "artist": "पवन सिंह",
-    "original": "Oriye Oriye Madhu Chuve",
-    "searchArtist": "Pawan Singh",
-    "url": "https://www.youtube.com/watch?v=7vj91XP2j78"
   },
   {
     "id": "6XQ9cgj2lq4",
