@@ -9,8 +9,6 @@ A browser-based Chhath music player with Bhojpuri interface copy, a sunrise intr
 
 ![Madhubani-inspired sunrise artwork used by the app](chhath-sunrise.png)
 
-> **[Step-by-step user guide (PDF)](docs/USER_GUIDE.pdf)**
-
 ## The experience
 
 - A skippable introduction following the four days of Chhath.
@@ -18,6 +16,15 @@ A browser-based Chhath music player with Bhojpuri interface copy, a sunrise intr
 - Playback controls with seeking and previous/next tracks.
 - Local audio import for recordings already on your device.
 - Reduced-motion handling in the interface.
+
+## Listen to music
+
+1. Open the hosted page or start the local server below.
+2. Skip or watch the sunrise introduction, then use the library/search controls to find a track.
+3. Select a track to play its YouTube embed. Use the transport controls to pause, seek, shuffle, or move between tracks.
+4. If embedded playback is unavailable, open the track's YouTube link. You can also import an audio file from your device; imported audio remains in that browser and is not uploaded.
+
+YouTube playback requires internet access and may be restricted by region or embed permissions. The music catalogue is curated in `music-data.js`.
 
 ## Run locally
 
