@@ -9,6 +9,8 @@ A browser-based Chhath music player with Bhojpuri interface copy, a sunrise intr
 
 ![Madhubani-inspired sunrise artwork used by the app](chhath-sunrise.png)
 
+> **[Step-by-step user guide (PDF)](docs/USER_GUIDE.pdf)**
+
 ## The experience
 
 - A skippable introduction following the four days of Chhath.
