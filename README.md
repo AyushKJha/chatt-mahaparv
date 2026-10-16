@@ -1,5 +1,3 @@
-<img src="docs/banner.svg" alt="Project overview" width="100%">
-
 # Chhath Mahaparv
 ### A music experience rooted in home.
 
