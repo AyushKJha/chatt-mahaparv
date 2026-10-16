@@ -1,3 +1,5 @@
+<img src="docs/banner.svg" alt="Chhath Mahaparv — illustrated sunrise and river" width="100%">
+
 # Chhath Mahaparv
 ### A music experience rooted in home.
 
