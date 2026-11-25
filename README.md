@@ -55,4 +55,4 @@ Serve the repository root as a static site. A public deployment address has not 
 
 Recordings belong to their artists and labels and stream through YouTube. Availability depends on region and embed permissions; use the track's YouTube link if embedded playback is unavailable. Imported audio stays in the browser and is not uploaded.
 
-The sunrise artwork is AI-generated and inspired by Madhubani art. It is shown above as project artwork, not as an application screenshot.
+The sunrise artwork is inspired by Madhubani art. It is shown above as project artwork, not as an application screenshot.
