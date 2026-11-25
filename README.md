@@ -7,7 +7,7 @@ A browser-based Chhath music player with Bhojpuri interface copy, a sunrise intr
 
 **HTML · CSS · JavaScript · YouTube playback · Local audio**
 
-![Madhubani-inspired sunrise artwork used by the app](chhath-sunrise.png)
+![Madhubani-inspired sunrise artwork used by the app](chhath-sunrise.webp)
 
 ## The experience
 
